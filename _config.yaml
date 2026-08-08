@@ -8,7 +8,7 @@ title: Endless Archive
 description: A personal homepage in Blue Archive style.
 
 # 网站图标路径 - 浏览器标签页显示的小图标
-favicon: /favicon144.png
+favicon: /avatar.webp
 
 # 网站作者姓名
 author: Endless
@@ -44,12 +44,12 @@ manifest:
   # PWA图标配置
   icons:
     # 大尺寸图标 - 用于桌面安装
-    - src: /favicon512.png
+    - src: /avatar.webp
       sizes: 512x512
       purpose: any maskable
 
     # 小尺寸图标 - 用于移动设备
-    - src: /favicon144.png
+    - src: /avatar.webp
       sizes: 144x144
 
 # 个人游戏等级信息
