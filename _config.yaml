@@ -17,9 +17,9 @@ author: Endless
 keywords: 'Blue Archive, 联轴器, Personal Homepage'
 
 # ICP备案号 - 中国大陆备案信息，留空表示未备案
-ICP: '萌ICP备20261978号'
+ICP: ''
 # 公安备案号 - 中国大陆网站备案信息，留空表示未备案
-gongan: ''
+gongan: '萌ICP备20261978号'
 
 # PWA配置 - 渐进式Web应用配置
 manifest:
