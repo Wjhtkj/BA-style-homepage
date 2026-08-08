@@ -2,7 +2,7 @@
 # Website Basic Configuration
 
 # 网站标题 - 浏览器标签页显示的标题
-title: Fish Archive
+title: Endless Archive
 
 # 网站描述 - 用于搜索引擎优化和社交媒体分享
 description: A personal homepage in Blue Archive style.
@@ -11,10 +11,10 @@ description: A personal homepage in Blue Archive style.
 favicon: /favicon144.png
 
 # 网站作者姓名
-author: Yuzifu
+author: Endless
 
 # 网站关键词 - 用于搜索引擎优化，逗号分隔
-keywords: 'Blue Archive, 小鱼yuzifu, Personal Homepage'
+keywords: 'Blue Archive, 联轴器, Personal Homepage'
 
 # ICP备案号 - 中国大陆备案信息，留空表示未备案
 ICP: ''
@@ -24,10 +24,10 @@ gongan: ''
 # PWA配置 - 渐进式Web应用配置
 manifest:
   # PWA应用完整名称
-  name: Fish Archive
+  name: Endless Archive
 
   # PWA应用简短名称 - 用于桌面显示
-  short_name: Fish Archive
+  short_name: Endless Archive
 
   # PWA应用描述
   description: A personal homepage in Blue Archive style.
@@ -53,11 +53,11 @@ manifest:
       sizes: 144x144
 
 # 个人游戏等级信息
-level: 90 # 当前等级
-exp: 8382 # 当前经验值
-nextExp: 8381 # 升级所需经验值
+level: 78 # 当前等级
+exp: 285 # 当前经验值
+nextExp: 911 # 升级所需经验值
 gold: 11451419 # 信用点数量
-pyroxene: 24000 # 青辉石数量
+pyroxene: 114514 # 青辉石数量
 
 # Iconfont字体库地址 - 阿里云图标字体库
 iconfont: 'https://at.alicdn.com/t/c/font_4336463_umq8x001wf9.js'
@@ -65,28 +65,28 @@ iconfont: 'https://at.alicdn.com/t/c/font_4336463_umq8x001wf9.js'
 # 底部项目展示区域 - 显示相关项目链接
 dock:
   # 项目1
-  - name: Bandcomic
-    href: 'https://github.com/sf-yuzifu/bandcomic'
+  - name: 2028高考倒计时
+    href: 'https://2028.wjhtkjwz.eu.org'
     imgSrc: /img/bandcomic.png
 
   # 项目2
-  - name: BCM Converter Project
-    href: 'https://gitee.com/sf-yuzifu/bcm_convertor'
+  - name: 旧站链接
+    href: 'https://wjhtkjwz.eu.org'
     imgSrc: /img/convertor.png
 
   # 项目3
-  - name: Waddle Project
-    href: 'https://waddle.cocotais.cn/'
+  - name: 作业检查工具
+    href: 'https://work.wjhtkjwz.eu.org'
     imgSrc: /img/waddle2.png
 
   # 项目4
-  - name: Boxy Project
-    href: 'https://boxy.cocotais.cn/'
+  - name: 小飞机游戏
+    href: 'https://game.wjhtkjwz.eu.org'
     imgSrc: /img/boxy.png
 
   # 项目5
-  - name: Fish Archive Project
-    href: 'https://gitee.com/sf-yuzifu/eat-fish-together'
+  - name: 切水果信中版
+    href: 'https://fruit.wjhtkjwz.eu.org'
     imgSrc: /img/fish.png
 
 # 左侧联系方式区域
@@ -98,17 +98,17 @@ contact:
 
   # 联系方式2
   - name: Gitee
-    href: 'https://gitee.com/sf-yuzifu'
+    href: 'https://gitee.com/'
     iconfont: icon-gitee
 
   # 联系方式3
   - name: Github
-    href: 'https://github.com/sf-yuzifu'
+    href: 'https://github.com/Wjhtkj'
     iconfont: icon-github
 
   # 联系方式4
   - name: BiliBili
-    href: 'https://space.bilibili.com/447666445'
+    href: 'https://space.bilibili.com/1130303811'
     iconfont: icon-bilibili
 
 # 任务按钮配置 - 页面左下角的任务按钮
@@ -211,5 +211,3 @@ bio:
   bth:
   - name: 蔚蓝档案
     path: /img/card/ba.png
-  - name: 明日方舟
-    path: /img/card/arknight.png
