@@ -102,13 +102,13 @@ translate:
   bio: 个人简介
   bioTitle: 自我介绍
   bioContent:
-    - 这里是小鱼yuzifu，很高兴你能看到这个网站>_<！
+    - 这里是Endless，很高兴你能看到这个网站>_<！
     - <br/>
     - '目前为止:'
-    - · 稍微擅长一点 Python、前端三件套、Node.js、Vue3、React 的使用
-    - · 正在学习Rust来推进Tauri的学习
-    - · 正在学习CTF相关知识
-    - · 现在是个Sensei、托雷纳、厨圣、刀客塔、管理员
+    - · 稍微擅长一点 Python 的使用
+    - · 正在学习English来推进Github项目的学习
+    - · 正在学习BA相关知识
+    - · 现在是个Sensei
     - <br/>
     - '<img width="100%" src="https://stats.yuzifu.top/api?username=sf-yuzifu&show_icons=true&count_private=false&theme=vue-dark" alt="统计信息" />'
     - '<img width="100%" src="https://stats.yuzifu.top/api/pin?username=sf-yuzifu&repo=homepage&show_icons=true&count_private=false&theme=vue-dark" alt="项目统计信息" />'
@@ -119,4 +119,4 @@ translate:
 bio:
   bth:
   - name: 蔚蓝档案
-  - name: 明日方舟
+
