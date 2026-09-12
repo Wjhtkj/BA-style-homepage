@@ -75,8 +75,8 @@ dock:
     imgSrc: /img/convertor.png
 
   # 项目3
-  - name: 作业检查工具
-    href: 'https://work.wjhtkjwz.eu.org'
+  - name: 游戏开发部
+    href: 'https://al1s.wjhtkjwz.eu.org'
     imgSrc: /img/waddle2.png
 
   # 项目4
@@ -85,8 +85,8 @@ dock:
     imgSrc: /img/boxy.png
 
   # 项目5
-  - name: 切水果信中版
-    href: 'https://fruit.wjhtkjwz.eu.org'
+  - name: 南梁测试
+    href: 'https://femboy.wjhtkjwz.eu.org'
     imgSrc: /img/fish.png
 
 # 左侧联系方式区域
